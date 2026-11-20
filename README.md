@@ -56,7 +56,8 @@ klasifikasi-sampah-pcd/
 ## ⚙️ Cara Instalasi
 
 1. Pastikan **Python 3.10+** (direkomendasikan Python 3.13) telah terpasang.
-2. Buka terminal / PowerShell pada direktori proyek ini, lalu instal seluruh dependensi:
+2. Download dataset dan atur sesuai struktur Folder (https://github.com/garythung/trashnet) data -> dataset-resized
+3. Buka terminal / PowerShell pada direktori proyek ini, lalu instal seluruh dependensi:
 
 ```powershell
 pip install -r requirements.txt
